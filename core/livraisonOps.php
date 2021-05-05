@@ -92,6 +92,16 @@ function AfficherTri(){
         }
 
 }
+function afficher_livraison_livreur($id,$start,$perpage){
+    $sql="SElECT DISTINCT `id`,`id_client`,`adresse`,`num_commande`,`date_l` From livraison,livreur where livraison.code_livreur=$id ";
+    $db = config::getConnexion();
+    try{
+    $liste=$db->query($sql);
+    return $liste;
+    }
+    catch (Exception $e){
+        die('Erreur: '.$e->getMessage());
+    }
 }
-
+    }
 ?>

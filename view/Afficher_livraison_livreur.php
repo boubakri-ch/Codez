@@ -1,11 +1,24 @@
 <?PHP
-    include ("../core/livreurOps.php");
+    include ("../core/livraisonOps.php");
+    $db = config::getConnexion();
     session_start();
+    
 
     if(!isset($_SESSION['unique_id'])){
       header("location:page-login.php");
     }
-    $db = config::getConnexion();
+    
+if(isset($_POST['ASC'])){
+    $livraison=new livraisonOps();
+    $liste = $livraisonOps->AfficherTri();
+    
+
+}
+
+if(isset($_GET['id'])){
+    $id=$_GET['id'];
+}
+
     $perpage=3;
     if(isset($_GET['page']))
     {
@@ -22,11 +35,13 @@
     {
         $start=0;
     }
-	$livreur=new livreurOps();
-    $liste_livreur=$livreur->afficher_livreur($start,$perpage);		
-    $sql_1="select count(livreur.code_livreur) as nb from livreur";
-    $count=$db->query($sql_1)
-	
+    
+    
+	$livraison=new livraisonOps();
+    
+	$liste_livraison=$livraison->Afficher_livraison_livreur($id,$perpage,$start);
+    $sql_1="select count(livraison.id) as nb from livraison,livreur where livreur.code_livreur=livraison.code_livreur";
+    $count=$db->query($sql_1);
     
 ?>
 
@@ -56,6 +71,22 @@
     <link rel="stylesheet" href="assets/css/lib/chosen/chosen.min.css">
 
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.0/normalize.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-icons@0.1.2/css/themify-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pixeden-stroke-7-icon@1.2.3/pe-icon-7-stroke/dist/pe-icon-7-stroke.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.0/css/flag-icon.min.css">
+    <link rel="stylesheet" href="assets/css/cs-skin-elastic.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+   <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="style.css">
+  
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 </head>
 <body>
@@ -161,10 +192,9 @@
                     <div class="header-left">
                         <button class="search-trigger"><i class="fa fa-search"></i></button>
                         <div class="form-inline">
-                            <form action ="rechercher.php" methode = "post" class="search-form">
+                            <form class="search-form">
                                 <input class="form-control mr-sm-2" type="text" placeholder="Search ..." aria-label="Search">
-                                <button class="search-close" type="submit" value="rechercher"><i class="fa fa-close"></i></button>
-                                
+                                <button class="search-close" type="submit"><i class="fa fa-close"></i></button>
                             </form>
                         </div>
 
@@ -259,7 +289,7 @@
                     <div class="col-sm-4">
                         <div class="page-header float-left">
                             <div class="page-title">
-                                <h1>Partie Affichage</h1>
+                                <h1>Dashboard</h1>
                             </div>
                         </div>
                     </div>
@@ -280,45 +310,41 @@
 
         <div class="content">
         <form enctype="multipart/form-data">
-      
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <input class="form-control mr-sm-2" type="text" placeholder="Search" name="search" id="search_text">
+    <input type="submit" name="ASC" value="Ascending">
+</nav
 		<hr>
-        
-
-
-        <a class="Export" href="ExportExcel.php">Export</a>
-        <a class="Export" href="generation_pdf.php">Pdf</a>
-		<table class="table" border=1 align = 'center'>
+        <a class="Export" href="Excel.php">Export</a>
+        <a class="Export" href="pdff.php">Pdf</a>
+		<table class="table" border=1 align = 'center' id="tab_livraison">
         
 			<tr>
 
-				<th>code_livreur </th>
-				<th>nom</th>
-				<th>prenom</th>
-                <th>mail</th>
-                <th>num_tel</th>
-
-
-				
+				<th>id livraison </th>
+				<th>code_client</th>
+                
+				<th>adresse</th>
+                <th>num commande</th>
+				<th>date</th>
 				
 
 
 			</tr>
 
 			<?PHP
-            
-				foreach($liste_livreur as $livreur){
-
+				foreach($liste_livraison as $livraison){
                 
 
 			?>
 				<tr>
-                
-					<td><?PHP echo $livreur['code_livreur']; ?></td>
-					<td><?PHP echo $livreur['nom']; ?></td>
-                    <td><?PHP echo $livreur['Prenom']; ?></td>
-                    <td><?PHP echo $livreur['mail']; ?></td>
-                    <td><?PHP echo $livreur['num_tel']; ?></td>
-                   
+					
+					<td><?PHP echo $livraison['id']; ?></td>
+					<td><?PHP echo $livraison['id_client']; ?></td>
+                    
+                    <td><?PHP echo $livraison['adresse']; ?></td>
+                    <td><?PHP echo $livraison['num_commande']; ?></td>
+                    <td><?PHP echo $livraison['date_l']; ?></td>
 
 
                
@@ -328,10 +354,9 @@
 
 
 					<td>
-					 <a class="supprimer" href="supprimer_livreur.php?id=<?PHP echo $livreur['code_livreur'];?>">Supprimer</a>
-                     <a class="modifier" href="modifier_livreur.php?id=<?PHP echo $livreur['code_livreur'];?> ">Modifier</a>
-                     <a class="Afficher" href="Afficher_livraison_livreur.php?id=<?PHP echo $livreur['code_livreur'];?> ">Afficher livarison</a>
-                     
+					 <a class="supprimer" href="supprimer_livraison.php?id=<?PHP echo $livraison['id'];?>">Supprimer</a>
+                     <a class="modifier" href="modifier_livraison.php?id=<?PHP echo $livraison['id'];?> ">Modifier</a>
+
 					</td>	
 				</tr>
              
@@ -340,6 +365,24 @@
 				}
 			?>
 		</table>
+        <section>
+<?php
+
+$tab = array($db->query('SELECT * FROM livraison ORDER BY num_commande'));
+for($I = count($tab) - 2;$I >= 0; $I--) {
+ for($J = 0; $J <= $I; $J++) {
+  if($tab[$J + 1] < $tab[$J]) {
+   $t = $tab[$J + 1];
+   $tab[$J + 1] = $tab[$J];
+   $tab[$J] = $t;
+  }
+ }
+}
+
+?>
+
+
+        </section>
         <?php
             foreach($count  as $c) {
               
@@ -354,6 +397,21 @@
             }
             
            ?> 
+           <script type="text/javascript">
+    $(document).ready(function(){
+        $("#search_text").keyup(function(){
+var search = $(this).val();
+$.ajax({
+url:'rechercher.php',
+method:'POST',
+data:{query:search},
+success:function(response){
+$("#tab_livraison").html(response);
+}
+});
+});
+});
+    </script>
         </form>
 </div><!-- .content -->
     <div class="clearfix"></div>
