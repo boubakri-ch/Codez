@@ -1,0 +1,46 @@
+*::after,
+*:before
+{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.error::after
+{
+background-color:transparent;
+color: rgb(10, 7, 2);
+font-size: 1rem;
+line-height: 1.8;
+width: 350px;
+right: 0;
+font-style: oblique;
+content: attr(data-errormsg);
+}
+
+
+.ajouter{
+
+    border: 0;
+    background: green;
+    margin: 20px auto;
+    text-align: center;
+    padding: 14px 10px;
+    width: 80px;
+    outline: none;
+    color:white;
+   
+    cursor: pointer;
+}
+.cancel{
+
+    border: 0;
+    background: red;
+    margin: 20px auto;
+    text-align: center;
+    padding: 14px 10px;
+    width: 80px;
+    outline: none;
+    color:white;
+   
+    cursor: pointer;
+}

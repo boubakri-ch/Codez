@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/cuisine.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/multi-cuisine-restaurants-in-thailand</id>
+    <published>2018-07-16T01:37:00-04:00</published>
+    <updated>2021-02-22T01:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/multi-cuisine-restaurants-in-thailand"/>
+    <title>Multi-cuisine restaurants in Thailand</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Molestie ac feugiat sed lectus. Eget mi proin sed libero enim.</span> Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/professional-pasta-school-in-italy</id>
+    <published>2018-07-16T01:36:00-04:00</published>
+    <updated>2021-02-22T01:52:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/professional-pasta-school-in-italy"/>
+    <title>Professional pasta school in Italy</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Cursus euismod quis viverra nibh cras pulvinar mattis nunc. Montes nascetur ridiculus mus mauris. Arcu bibendum at varius vel pharetra vel turpis. Turpis egestas integer eget aliquet nibh praesent. Nam at lectus urna duis convallis convallis tellus id. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Nec feugiat in fermentum posuere urna nec. Ut consequat semper viverra nam libero justo laoreet sit. Ultricies mi eget mauris pharetra et ultrices. Placerat duis ultricies lacus sed turpis tincidunt id aliquet risus. Id aliquet risus feugiat in ante metus dictum.</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/italian-traditional-herbs-bread-with-olive</id>
+    <published>2018-07-16T01:34:00-04:00</published>
+    <updated>2021-02-22T01:52:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/italian-traditional-herbs-bread-with-olive"/>
+    <title>Italian traditional herbs bread with Olive</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Est sit amet facilisis magna etiam tempor. Dolor sed viverra ipsum nunc aliquet bibendum enim. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Commodo ullamcorper a lacus vestibulum sed arcu non odio euismod. Elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Auctor augue mauris augue neque gravida. Ut morbi tincidunt augue interdum velit euismod in. Sit amet est placerat in egestas. Nunc id cursus metus aliquam eleifend mi in nulla posuere. Sit amet consectetur adipiscing elit duis. Duis ultricies lacus sed turpis. </span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/low-calorie-kung-pao-shrimp</id>
+    <published>2018-07-16T01:31:00-04:00</published>
+    <updated>2021-02-22T01:50:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/low-calorie-kung-pao-shrimp"/>
+    <title>Low-calorie Kung Pao shrimp</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Vestibulum morbi blandit cursus risus at ultrices mi. Eget mi proin sed libero enim. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Accumsan tortor posuere ac ut consequat semper. Facilisi nullam vehicula ipsum a. Ornare massa eget egestas purus viverra accumsan in nisl nisi. Quam pellentesque nec nam aliquam sem et tortor consequat. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Odio morbi quis commodo odio aenean consectetur. </span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/secret-behind-sushi-and-sashimi</id>
+    <published>2018-07-16T01:30:00-04:00</published>
+    <updated>2021-02-22T01:50:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/secret-behind-sushi-and-sashimi"/>
+    <title>Secret behind Sushi and Sashimi</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Massa placerat duis ultricies lacus sed. Eget mi proin sed libero enim. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ante in nibh mauris cursus. Ipsum dolor sit amet consectetur adipiscing elit. Egestas integer eget aliquet nibh praesent tristique magna. Faucibus nisl tincidunt eget nullam non nisi est sit amet. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Enim nec dui nunc mattis. Porttitor lacus luctus accumsan tortor posuere. Auctor eu augue.</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/mouth-watering-full-english-breakfast</id>
+    <published>2018-07-16T01:28:00-04:00</published>
+    <updated>2021-02-22T01:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/mouth-watering-full-english-breakfast"/>
+    <title>Mouth watering full English breakfast</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>At erat pellentesque adipiscing commodo elit at. Rutrum quisque non tellus orci. Cursus vitae congue mauris rhoncus. Praesent semper feugiat nibh sed pulvinar proin gravida. Eu facilisis sed odio morbi quis. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Massa eget egestas purus viverra. Enim blandit volutpat maecenas volutpat blandit. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Sagittis vitae et leo duis ut diam. Nam at lectus urna duis convallis convallis. Lobortis elementum nibh tellus molestie nunc massa.</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/vitamin-rich-rainbow-orzo-salad</id>
+    <published>2018-07-16T01:28:00-04:00</published>
+    <updated>2021-02-22T01:52:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/vitamin-rich-rainbow-orzo-salad"/>
+    <title>Vitamin rich Rainbow Orzo Salad</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Malesuada fames ac turpis egestas integer eget. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Sed blandit libero volutpat sed cras ornare arcu dui. Neque egestas congue quisque egestas diam. Viverra justo nec ultrices dui sapien. Venenatis urna cursus eget nunc scelerisque viverra. Amet consectetur adipiscing elit pellentesque habitant morbi. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Turpis in eu mi bibendum neque. Etiam tempor orci eu lobortis elementum nibh.</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/simple-authentic-ingredient-recipes</id>
+    <published>2018-07-16T01:25:00-04:00</published>
+    <updated>2021-02-22T01:52:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/simple-authentic-ingredient-recipes"/>
+    <title>Simple authentic ingredient recipes</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. A lacus vestibulum sed arcu non. Aliquet enim tortor at auctor. Malesuada nunc vel risus commodo viverra maecenas. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis. Amet luctus venenatis lectus magna. Sociis natoque penatibus et magnis dis. Suscipit adipiscing bibendum est ultricies. Dictumst vestibulum rhoncus est pellentesque. Elit pellentesque habitant morbi tristique senectus et netus. Lectus magna fringilla urna porttitor rhoncus dolor ondimentum vitae. </span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/the-most-significant-segment-of-thai-cuisine</id>
+    <published>2018-06-12T07:59:00-04:00</published>
+    <updated>2021-02-22T01:51:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/the-most-significant-segment-of-thai-cuisine"/>
+    <title>The most significant segment of Thai cuisine</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Lacinia at quis risus sed vulputate odio ut enim blandit. Sem fringilla ut morbi tincidunt augue interdum velit. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Facilisis sed odio morbi quis commodo odio. Eget nunc lobortis mattis aliquam faucibus purus. Nunc sed augue lacus viverra vitae congue eu consequat. Massa tempor nec feugiat nisl pretium fusce id velit. Duis ut diam quam nulla. Enim diam vulputate ut pharetra. Nunc faucibus a pellentesque sit amet porttitor. Sed ullamcorper morbi tincidunt ornare massa eget egestas euismod quis. </span>]]>
+    </content>
+  </entry>
+</feed>

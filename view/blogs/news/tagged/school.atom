@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/school.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/professional-pasta-school-in-italy</id>
+    <published>2018-07-16T01:36:00-04:00</published>
+    <updated>2021-02-22T01:52:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/professional-pasta-school-in-italy"/>
+    <title>Professional pasta school in Italy</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Cursus euismod quis viverra nibh cras pulvinar mattis nunc. Montes nascetur ridiculus mus mauris. Arcu bibendum at varius vel pharetra vel turpis. Turpis egestas integer eget aliquet nibh praesent. Nam at lectus urna duis convallis convallis tellus id. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Nec feugiat in fermentum posuere urna nec. Ut consequat semper viverra nam libero justo laoreet sit. Ultricies mi eget mauris pharetra et ultrices. Placerat duis ultricies lacus sed turpis tincidunt id aliquet risus. Id aliquet risus feugiat in ante metus dictum.</span>]]>
+    </content>
+  </entry>
+</feed>

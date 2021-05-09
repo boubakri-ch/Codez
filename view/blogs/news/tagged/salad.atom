@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/salad.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/mouth-watering-full-english-breakfast</id>
+    <published>2018-07-16T01:28:00-04:00</published>
+    <updated>2021-02-22T01:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/mouth-watering-full-english-breakfast"/>
+    <title>Mouth watering full English breakfast</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>At erat pellentesque adipiscing commodo elit at. Rutrum quisque non tellus orci. Cursus vitae congue mauris rhoncus. Praesent semper feugiat nibh sed pulvinar proin gravida. Eu facilisis sed odio morbi quis. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Massa eget egestas purus viverra. Enim blandit volutpat maecenas volutpat blandit. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Sagittis vitae et leo duis ut diam. Nam at lectus urna duis convallis convallis. Lobortis elementum nibh tellus molestie nunc massa.</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/vitamin-rich-rainbow-orzo-salad</id>
+    <published>2018-07-16T01:28:00-04:00</published>
+    <updated>2021-02-22T01:52:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/vitamin-rich-rainbow-orzo-salad"/>
+    <title>Vitamin rich Rainbow Orzo Salad</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Malesuada fames ac turpis egestas integer eget. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Sed blandit libero volutpat sed cras ornare arcu dui. Neque egestas congue quisque egestas diam. Viverra justo nec ultrices dui sapien. Venenatis urna cursus eget nunc scelerisque viverra. Amet consectetur adipiscing elit pellentesque habitant morbi. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Turpis in eu mi bibendum neque. Etiam tempor orci eu lobortis elementum nibh.</span>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/meat.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/multi-cuisine-restaurants-in-thailand</id>
+    <published>2018-07-16T01:37:00-04:00</published>
+    <updated>2021-02-22T01:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/multi-cuisine-restaurants-in-thailand"/>
+    <title>Multi-cuisine restaurants in Thailand</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Molestie ac feugiat sed lectus. Eget mi proin sed libero enim.</span> Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/mouth-watering-full-english-breakfast</id>
+    <published>2018-07-16T01:28:00-04:00</published>
+    <updated>2021-02-22T01:52:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/mouth-watering-full-english-breakfast"/>
+    <title>Mouth watering full English breakfast</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>At erat pellentesque adipiscing commodo elit at. Rutrum quisque non tellus orci. Cursus vitae congue mauris rhoncus. Praesent semper feugiat nibh sed pulvinar proin gravida. Eu facilisis sed odio morbi quis. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Massa eget egestas purus viverra. Enim blandit volutpat maecenas volutpat blandit. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Sagittis vitae et leo duis ut diam. Nam at lectus urna duis convallis convallis. Lobortis elementum nibh tellus molestie nunc massa.</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/the-most-significant-segment-of-thai-cuisine</id>
+    <published>2018-06-12T07:59:00-04:00</published>
+    <updated>2021-02-22T01:51:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/the-most-significant-segment-of-thai-cuisine"/>
+    <title>The most significant segment of Thai cuisine</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Lacinia at quis risus sed vulputate odio ut enim blandit. Sem fringilla ut morbi tincidunt augue interdum velit. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Facilisis sed odio morbi quis commodo odio. Eget nunc lobortis mattis aliquam faucibus purus. Nunc sed augue lacus viverra vitae congue eu consequat. Massa tempor nec feugiat nisl pretium fusce id velit. Duis ut diam quam nulla. Enim diam vulputate ut pharetra. Nunc faucibus a pellentesque sit amet porttitor. Sed ullamcorper morbi tincidunt ornare massa eget egestas euismod quis. </span>]]>
+    </content>
+  </entry>
+</feed>

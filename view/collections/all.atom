@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/collections/all.atom"/>
+  <title>Yummi-theme</title>
+  <updated>2020-05-18T08:03:56-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439163404311</id>
+    <published>2020-05-18T08:03:56-04:00</published>
+    <updated>2020-05-18T08:03:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/scrambled-eggs"/>
+    <title>Scrambled Eggs</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-22.jpg?v=1589803451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>Egg</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Thai</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439163404311</id>
+      <title>Veg / Thai / Egg</title>
+      <s:price currency="INR">270.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439160553495</id>
+    <published>2020-05-18T08:01:37-04:00</published>
+    <updated>2020-05-18T08:01:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/thai-tom-yum-soup"/>
+    <title>Thai Tom Yum Soup</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-21.jpg?v=1589803312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Thai</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439160553495</id>
+      <title>Veg / Thai / Vegetables</title>
+      <s:price currency="INR">270.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439158521879</id>
+    <published>2020-05-18T07:59:40-04:00</published>
+    <updated>2020-05-18T07:59:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/spaghetti-aglio"/>
+    <title>Spaghetti Aglio</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-20.jpg?v=1589803195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Thai</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439158521879</id>
+      <title>Veg / Thai / Vegetables</title>
+      <s:price currency="INR">370.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439154491415</id>
+    <published>2020-05-18T07:56:26-04:00</published>
+    <updated>2020-05-18T07:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/creamy-vegetable-salad"/>
+    <title>Creamy Vegetable Salad</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-19.jpg?v=1589803002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439154491415</id>
+      <title>Veg / Italian / Vegetables</title>
+      <s:price currency="INR">370.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439152459799</id>
+    <published>2020-05-18T07:54:25-04:00</published>
+    <updated>2020-05-18T07:54:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/galouti-kebab"/>
+    <title>Galouti Kebab</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-18.jpg?v=1589802879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Lamb</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439152459799</id>
+      <title>Non-Veg / Italian / Lamb</title>
+      <s:price currency="INR">370.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439150002199</id>
+    <published>2020-05-18T07:52:18-04:00</published>
+    <updated>2020-05-18T07:52:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/cobb-salad"/>
+    <title>Cobb Salad</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-17.jpg?v=1589802755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Bacon</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439150002199</id>
+      <title>Non-Veg / Italian / Bacon</title>
+      <s:price currency="INR">270.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439147642903</id>
+    <published>2020-05-18T07:50:06-04:00</published>
+    <updated>2020-05-18T07:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/rigatoni-alla-carbonara"/>
+    <title>Rigatoni Alla Carbonara</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-16.jpg?v=1589802620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439147642903</id>
+      <title>Veg / Italian / Vegetables</title>
+      <s:price currency="INR">270.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439144071191</id>
+    <published>2020-05-18T07:47:00-04:00</published>
+    <updated>2020-05-18T07:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/penne-alla-vodka"/>
+    <title>Penne Alla Vodka</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-15.jpg?v=1589802434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439144071191</id>
+      <title>Veg / Italian / Vegetables</title>
+      <s:price currency="INR">270.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439137091607</id>
+    <published>2020-05-18T07:40:51-04:00</published>
+    <updated>2020-05-18T07:40:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/risotto"/>
+    <title>Risotto</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-14.jpg?v=1589802093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439137091607</id>
+      <title>Veg / Italian / Vegetables</title>
+      <s:price currency="INR">270.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439132962839</id>
+    <published>2020-05-18T07:37:01-04:00</published>
+    <updated>2020-05-18T07:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/chicken-popcorn"/>
+    <title>Chicken Popcorn</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-13.jpg?v=1589801841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439132962839</id>
+      <title>Non-Veg / Italian / Chicken</title>
+      <s:price currency="INR">270.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439131160599</id>
+    <published>2020-05-18T07:35:27-04:00</published>
+    <updated>2020-05-18T07:35:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/grilled-fish-with-chips"/>
+    <title>Grilled Fish with Chips</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-12.jpg?v=1589801743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Greece</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439131160599</id>
+      <title>Non-Veg / Greece / Fish</title>
+      <s:price currency="INR">270.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439126671383</id>
+    <published>2020-05-18T07:31:16-04:00</published>
+    <updated>2020-05-18T07:31:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/green-chicken-salad"/>
+    <title>Green Chicken Salad</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-11.jpg?v=1589801490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>Greece</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439126671383</id>
+      <title>Non-Veg / Greece / Chicken</title>
+      <s:price currency="INR">370.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439120936983</id>
+    <published>2020-05-18T07:26:03-04:00</published>
+    <updated>2020-05-18T07:26:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/mexican-black-bean-salad"/>
+    <title>Mexican black bean salad</title>
+    <s:type>Lunch</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-10.jpg?v=1589801262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Lunch<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Greece</s:tag>
+    <s:tag>Lunch</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439120936983</id>
+      <title>Veg / Greece / Vegetables</title>
+      <s:price currency="INR">370.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439117496343</id>
+    <published>2020-05-18T07:23:05-04:00</published>
+    <updated>2020-05-18T07:23:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/crispy-chicken-wings"/>
+    <title>Crispy Chicken Wings</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-9.jpg?v=1589800999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Indian</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439117496343</id>
+      <title>Non-Veg / Indian / Chicken</title>
+      <s:price currency="INR">350.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439111761943</id>
+    <published>2020-05-18T07:18:02-04:00</published>
+    <updated>2020-05-18T07:18:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/greek-salad"/>
+    <title>Greek Salad</title>
+    <s:type>Lunch</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-8.jpg?v=1589800718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Lunch<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Greece</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Lunch</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:tag>Vegetables</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439111761943</id>
+      <title>Veg / Greece / Vegetables</title>
+      <s:price currency="INR">350.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439107534871</id>
+    <published>2020-05-18T07:13:52-04:00</published>
+    <updated>2020-05-18T07:13:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/english-breakfast"/>
+    <title>English Breakfast</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-7.jpg?v=1589800448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>Britain</s:tag>
+    <s:tag>Egg</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439107534871</id>
+      <title>Veg / Britain / Egg</title>
+      <s:price currency="INR">350.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439101997079</id>
+    <published>2020-05-18T07:08:39-04:00</published>
+    <updated>2020-05-18T07:08:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/creamed-chipped-beef"/>
+    <title>Creamed Chipped Beef</title>
+    <s:type>Lunch</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-6.jpg?v=1589800162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Lunch<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>Italian</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Lunch</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439101997079</id>
+      <title>Non-Veg / Italian / Beef</title>
+      <s:price currency="INR">350.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439049469975</id>
+    <published>2020-05-18T07:00:00-04:00</published>
+    <updated>2020-05-18T07:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/beef-steaks"/>
+    <title>Beef Steaks</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>Kesari</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-2.jpg?v=1589797183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kesari<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            286.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>Chines</s:tag>
+    <s:tag>Kesari</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439049469975</id>
+      <title>Non-Veg / Chines / Beef</title>
+      <s:price currency="INR">286.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439086891031</id>
+    <published>2020-05-18T06:55:02-04:00</published>
+    <updated>2020-05-18T06:55:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/garlic-prime-rib"/>
+    <title>Garlic Prime Rib</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-5.jpg?v=1589799318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Korean</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439086891031</id>
+      <title>Non-Veg / Korean / Beef</title>
+      <s:price currency="INR">350.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439062708247</id>
+    <published>2020-05-18T06:32:06-04:00</published>
+    <updated>2020-05-18T06:32:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/buldak"/>
+    <title>Buldak</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-4.jpg?v=1589797939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            286.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Korean</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439062708247</id>
+      <title>Non-Veg / Korean / Beef</title>
+      <s:price currency="INR">286.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4439057170455</id>
+    <published>2020-05-18T06:27:00-04:00</published>
+    <updated>2020-05-18T06:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/salisbury-steak"/>
+    <title>Salisbury Steak</title>
+    <s:type>Dinner</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-3.jpg?v=1589797640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Dinner<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Beef</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Dinner</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:tag>Thai</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4439057170455</id>
+      <title>Non-Veg / Thai / Beef</title>
+      <s:price currency="INR">350.00</s:price>
+      <s:sku/>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/products/4408908414999</id>
+    <published>2020-04-17T07:39:55-04:00</published>
+    <updated>2020-04-17T07:39:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/products/fried-egg-sausage"/>
+    <title>Fried Egg &amp; Sausage</title>
+    <s:type>Breakfast</s:type>
+    <s:vendor>catch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0267/5979/0615/products/shop-1.jpg?v=1589796261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>catch<br>
+        <strong>Type: </strong>Breakfast<br>
+        <strong>Price: </strong>
+            286.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Breakfast</s:tag>
+    <s:tag>catch</s:tag>
+    <s:tag>Chicken</s:tag>
+    <s:tag>Chines</s:tag>
+    <s:tag>Non-Veg</s:tag>
+    <s:variant>
+      <id>https://yummi-theme.myshopify.com/products/4408908414999</id>
+      <title>Non-Veg / Chines / Chicken</title>
+      <s:price currency="INR">286.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+</feed>

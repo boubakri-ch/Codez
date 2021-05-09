@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/fish.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/low-calorie-kung-pao-shrimp</id>
+    <published>2018-07-16T01:31:00-04:00</published>
+    <updated>2021-02-22T01:50:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/low-calorie-kung-pao-shrimp"/>
+    <title>Low-calorie Kung Pao shrimp</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Vestibulum morbi blandit cursus risus at ultrices mi. Eget mi proin sed libero enim. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Accumsan tortor posuere ac ut consequat semper. Facilisi nullam vehicula ipsum a. Ornare massa eget egestas purus viverra accumsan in nisl nisi. Quam pellentesque nec nam aliquam sem et tortor consequat. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Odio morbi quis commodo odio aenean consectetur. </span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/secret-behind-sushi-and-sashimi</id>
+    <published>2018-07-16T01:30:00-04:00</published>
+    <updated>2021-02-22T01:50:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/secret-behind-sushi-and-sashimi"/>
+    <title>Secret behind Sushi and Sashimi</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Massa placerat duis ultricies lacus sed. Eget mi proin sed libero enim. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ante in nibh mauris cursus. Ipsum dolor sit amet consectetur adipiscing elit. Egestas integer eget aliquet nibh praesent tristique magna. Faucibus nisl tincidunt eget nullam non nisi est sit amet. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Enim nec dui nunc mattis. Porttitor lacus luctus accumsan tortor posuere. Auctor eu augue.</span>]]>
+    </content>
+  </entry>
+</feed>

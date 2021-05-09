@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+yummi-theme.myshopify.com	TRUE	/26759790615/checkouts/5811fc25ad206810b3af52c30eb46748	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV5WVdOaVptTTRaREJoTnpFNU16ZGpOV1V5TkRnd1l6QmhZV000TXpZd09RWTZCa1ZVIiwiZXhwIjoiMjAyMS0wNS0wMVQxNDowNjowOS43MTVaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--ed00e201197b29159b1f2459d6224e4b1282efaf
+yummi-theme.myshopify.com	TRUE	/26759790615	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUxT0RFeFptTXlOV0ZrTWpBMk9ERXdZak5oWmpVeVl6TXdaV0kwTmpjME9BWTZCa1ZVIiwiZXhwIjoiMjAyMi0wNC0xMFQxNDowNjowOS43MTVaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--3bccc002ae5c9f515d942e628c46022c7842aec6
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	700a1bdfafe11873794a09ab79a8eb0c
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart	eaf1bea78e30c5c3593e09ebea68b525
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1618063536
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	INR
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_queue_token	AZozm0qAdUR4DpdL0Q9W3R-kMD9kdcoDRKPCE7H6Pg7u0_PG1QSJq5O6OZjmMhdbbkh4s77RHFdqJaz7AQ9Vc1gG8JAUTCIwHRDSc3pHq4NH0Huz7ML9sdJTWsbe13jq0CfLEaAzaaAXQoHImK7BmNnxSFIX-7ISJzg3-UlVLTboiE4xdsIwtA%3D%3D
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_queue_checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUxT0RFeFptTXlOV0ZrTWpBMk9ERXdZak5oWmpVeVl6TXdaV0kwTmpjME9BWTZCa1ZVIiwiZXhwIjoiMjAyMS0wNC0xMFQxNTowNTozNi4xMDdaIiwicHVyIjoiY29va2llLl9jaGVja291dF9xdWV1ZV9jaGVja291dF90b2tlbiJ9fQ%3D%3D--da01bdecc9f560eb247cd1002834f0a67abf39dd
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A4
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	a4d6d2adcb8ae53392d1aed31a4a59a0
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_y	cd60326b-ed30-4321-b0ed-b13bf8942b79
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_s	0893ba5c-6abc-4223-9637-e696b4ba5fa5
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	cd60326b-ed30-4321-b0ed-b13bf8942b79
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	0893ba5c-6abc-4223-9637-e696b4ba5fa5
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_fs	2021-04-10T14%3A17%3A26Z
+yummi-theme.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
