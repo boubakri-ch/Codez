@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/pizza.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/italian-pizza-with-mushroom-and-sausage</id>
+    <published>2018-06-12T07:58:00-04:00</published>
+    <updated>2021-02-22T01:49:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/italian-pizza-with-mushroom-and-sausage"/>
+    <title>Italian Pizza with mushroom and sausage</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>A feugiat sed lectus. Eget mi proin sed libero enim.</span><span> Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</span>]]>
+    </content>
+  </entry>
+</feed>

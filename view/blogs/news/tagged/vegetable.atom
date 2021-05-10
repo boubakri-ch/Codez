@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/vegetable.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/italian-traditional-herbs-bread-with-olive</id>
+    <published>2018-07-16T01:34:00-04:00</published>
+    <updated>2021-02-22T01:52:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/italian-traditional-herbs-bread-with-olive"/>
+    <title>Italian traditional herbs bread with Olive</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Est sit amet facilisis magna etiam tempor. Dolor sed viverra ipsum nunc aliquet bibendum enim. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Commodo ullamcorper a lacus vestibulum sed arcu non odio euismod. Elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Auctor augue mauris augue neque gravida. Ut morbi tincidunt augue interdum velit euismod in. Sit amet est placerat in egestas. Nunc id cursus metus aliquam eleifend mi in nulla posuere. Sit amet consectetur adipiscing elit duis. Duis ultricies lacus sed turpis. </span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/vitamin-rich-rainbow-orzo-salad</id>
+    <published>2018-07-16T01:28:00-04:00</published>
+    <updated>2021-02-22T01:52:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/vitamin-rich-rainbow-orzo-salad"/>
+    <title>Vitamin rich Rainbow Orzo Salad</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Malesuada fames ac turpis egestas integer eget. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Sed blandit libero volutpat sed cras ornare arcu dui. Neque egestas congue quisque egestas diam. Viverra justo nec ultrices dui sapien. Venenatis urna cursus eget nunc scelerisque viverra. Amet consectetur adipiscing elit pellentesque habitant morbi. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Turpis in eu mi bibendum neque. Etiam tempor orci eu lobortis elementum nibh.</span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/italian-pizza-with-mushroom-and-sausage</id>
+    <published>2018-06-12T07:58:00-04:00</published>
+    <updated>2021-02-22T01:49:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/italian-pizza-with-mushroom-and-sausage"/>
+    <title>Italian Pizza with mushroom and sausage</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>A feugiat sed lectus. Eget mi proin sed libero enim.</span><span> Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.</span>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/thai.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/multi-cuisine-restaurants-in-thailand</id>
+    <published>2018-07-16T01:37:00-04:00</published>
+    <updated>2021-02-22T01:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/multi-cuisine-restaurants-in-thailand"/>
+    <title>Multi-cuisine restaurants in Thailand</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Molestie ac feugiat sed lectus. Eget mi proin sed libero enim.</span> Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/low-calorie-kung-pao-shrimp</id>
+    <published>2018-07-16T01:31:00-04:00</published>
+    <updated>2021-02-22T01:50:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/low-calorie-kung-pao-shrimp"/>
+    <title>Low-calorie Kung Pao shrimp</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Vestibulum morbi blandit cursus risus at ultrices mi. Eget mi proin sed libero enim. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Accumsan tortor posuere ac ut consequat semper. Facilisi nullam vehicula ipsum a. Ornare massa eget egestas purus viverra accumsan in nisl nisi. Quam pellentesque nec nam aliquam sem et tortor consequat. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Odio morbi quis commodo odio aenean consectetur. </span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/simple-authentic-ingredient-recipes</id>
+    <published>2018-07-16T01:25:00-04:00</published>
+    <updated>2021-02-22T01:52:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/simple-authentic-ingredient-recipes"/>
+    <title>Simple authentic ingredient recipes</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. A lacus vestibulum sed arcu non. Aliquet enim tortor at auctor. Malesuada nunc vel risus commodo viverra maecenas. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis. Amet luctus venenatis lectus magna. Sociis natoque penatibus et magnis dis. Suscipit adipiscing bibendum est ultricies. Dictumst vestibulum rhoncus est pellentesque. Elit pellentesque habitant morbi tristique senectus et netus. Lectus magna fringilla urna porttitor rhoncus dolor ondimentum vitae. </span>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/the-most-significant-segment-of-thai-cuisine</id>
+    <published>2018-06-12T07:59:00-04:00</published>
+    <updated>2021-02-22T01:51:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/the-most-significant-segment-of-thai-cuisine"/>
+    <title>The most significant segment of Thai cuisine</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Lacinia at quis risus sed vulputate odio ut enim blandit. Sem fringilla ut morbi tincidunt augue interdum velit. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Facilisis sed odio morbi quis commodo odio. Eget nunc lobortis mattis aliquam faucibus purus. Nunc sed augue lacus viverra vitae congue eu consequat. Massa tempor nec feugiat nisl pretium fusce id velit. Duis ut diam quam nulla. Enim diam vulputate ut pharetra. Nunc faucibus a pellentesque sit amet porttitor. Sed ullamcorper morbi tincidunt ornare massa eget egestas euismod quis. </span>]]>
+    </content>
+  </entry>
+</feed>

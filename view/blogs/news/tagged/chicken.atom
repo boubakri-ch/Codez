@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yummi-theme.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://yummi-theme.myshopify.com/blogs/news/tagged/chicken.atom"/>
+  <title>Yummi-theme - News</title>
+  <updated>2018-07-16T01:37:00-04:00</updated>
+  <author>
+    <name>Yummi-theme</name>
+  </author>
+  <entry>
+    <id>https://yummi-theme.myshopify.com/blogs/news/simple-authentic-ingredient-recipes</id>
+    <published>2018-07-16T01:25:00-04:00</published>
+    <updated>2021-02-22T01:52:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yummi-theme.myshopify.com/blogs/news/simple-authentic-ingredient-recipes"/>
+    <title>Simple authentic ingredient recipes</title>
+    <author>
+      <name>Ramamoorthi M</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. A lacus vestibulum sed arcu non. Aliquet enim tortor at auctor. Malesuada nunc vel risus commodo viverra maecenas. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis. Amet luctus venenatis lectus magna. Sociis natoque penatibus et magnis dis. Suscipit adipiscing bibendum est ultricies. Dictumst vestibulum rhoncus est pellentesque. Elit pellentesque habitant morbi tristique senectus et netus. Lectus magna fringilla urna porttitor rhoncus dolor ondimentum vitae. </span>]]>
+    </content>
+  </entry>
+</feed>
