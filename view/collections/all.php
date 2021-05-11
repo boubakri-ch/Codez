@@ -5,7 +5,34 @@
 
 
     $produit=new produitOps();
+    if(isset($_GET['sort_by']))
+    {
+      if($_GET['sort_by']=="A-Z")
+      {
+    $liste_produit=$produit->afficher_produit_nom();	
+      }  
+      else
+      if($_GET['sort_by']=="Z-A")
+      {
+    $liste_produit=$produit->afficher_produit_nom_desc();	
+      } 
+      else
+      if($_GET['sort_by']=="prix_asc")
+      {
+    $liste_produit=$produit->afficher_produit_prix_asc();	
+      } 
+      else
+      if($_GET['sort_by']=="prix_desc")
+      {
+    $liste_produit=$produit->afficher_produit_prix_desc();	
+      } 
+
+  }
+  else
+  {
     $liste_produit=$produit->afficher_produit();	
+
+  }
        // header("location:listeMaisons.php");
 
        $sql="select * from categorie";
@@ -3818,10 +3845,7 @@ Les Restaurants
   
   <div class="dt-sc-hr-invisible-large"></div>
   
-    
-    
-    
-    
+      
   <div class="wrapper"> 
     <div class="grid-uniform">
       <div class="grid__item">  
@@ -3859,7 +3883,7 @@ Les Restaurants
     <li class="cat-item cat-item-39 cat-parent first">
       <i></i>
 
-      <a class="" href="chinese.html"><?php echo $cat['libelle'] ; ?></a> <span class="dt-sc-toggle"></span>
+      <a class="" href="prod_cat.php?libelle=<?php echo $cat['libelle'] ; ?>"><?php echo $cat['libelle'] ; ?></a> <span class="dt-sc-toggle"></span>
 
               
       <ul class="children dt-sc-toggle-content ">
@@ -5022,14 +5046,11 @@ $(document).ready(function(){
           </button>
 
           <ul class="dropdown-menu" role="menu">
-            <li class="active"><a href="manual.html">Featured</a></li>
-            <li><a href="price-ascending.html">Price, low to high</a></li>
-            <li><a href="price-descending.html">Price, high to low</a></li>
-            <li><a href="all1.php"> A-Z</a></li>
-            <li><a href="title-descending.html">Z-A</a></li>
-            <li><a href="created-ascending.html">Date, old to new</a></li>
-            <li><a href="created-descending.html">Date, new to old</a></li>
-            <li><a href="best-selling.html">Best Selling</a></li>
+            <li><a href="prix_asc">Price, low to high</a></li>
+            <li><a href="prix_desc">Price, high to low</a></li>
+            <li><a href="A-Z"> A-Z</a></li>
+            <li><a href="Z-A">Z-A</a></li>
+           
           </ul>
         </div>
       </div>

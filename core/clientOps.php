@@ -4,7 +4,7 @@
 
     class clientOps{
         function ajouterClient($x){
-            $sql = "INSERT INTO `users`(fname,lname,email,password_c,unique_id,type_c) VALUES (:nom,:prenom,:email,:password_c,:unique_id,:type_c)";
+            $sql = "INSERT INTO `users`(fname,lname,email,password_c,unique_id,type_c,etat) VALUES (:nom,:prenom,:email,:password_c,:unique_id,:type_c,'actif')";
             $db = config::getConnexion();
             try{
                 $statut="client";

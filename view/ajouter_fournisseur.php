@@ -123,22 +123,21 @@ $f=new fournisseur (null,$_POST['adresse'],$_POST['numero'],$image_blob,$_POST['
                         </ul>
                     </li>
                     <li>
-                        <a href="widgets.html"> <i class="menu-icon ti-email"></i>Widgets </a>
+                    <a href="user_chat.php"> <i class="menu-icon ti-email"></i>chat </a>
                     </li>
                     <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-bar-chart"></i>Charts</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-bar-chart"></i>Livraison</a>
                         <ul class="sub-menu children dropdown-menu">
-                            <li><i class="menu-icon fa fa-line-chart"></i><a href="charts-chartjs.html">Chart JS</a></li>
-                            <li><i class="menu-icon fa fa-area-chart"></i><a href="charts-flot.html">Flot Chart</a></li>
-                            <li><i class="menu-icon fa fa-pie-chart"></i><a href="charts-peity.html">Peity Chart</a></li>
+                            <li><i class="menu-icon fa fa-line-chart"></i><a href="ajouter_livraison.php">Ajouter Livraison</a></li>
+                            <li><i class="menu-icon fa fa-area-chart"></i><a href="afficher_livraison">afficher Les Livraisons</a></li>
                         </ul>
                     </li>
 
                     <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-area-chart"></i>Maps</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-area-chart"></i>Livreur</a>
                         <ul class="sub-menu children dropdown-menu">
-                            <li><i class="menu-icon fa fa-map-o"></i><a href="maps-gmap.html">Google Maps</a></li>
-                            <li><i class="menu-icon fa fa-street-view"></i><a href="maps-vector.html">Vector Maps</a></li>
+                            <li><i class="menu-icon fa fa-map-o"></i><a href="ajouter_livreur.php">Ajouter livreur</a></li>
+                            <li><i class="menu-icon fa fa-street-view"></i><a href="afficher_livreur.php">afficher livreur</a></li>
                         </ul>
                     </li>
                     <li class="menu-title">Extras</li><!-- /.menu-title -->

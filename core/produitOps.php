@@ -28,10 +28,58 @@
 				die('Erreur: '.$e->getMessage());
 			}	
 		}
-        
+        function afficher_produit_cat($libelle){
+            $replaced = str_replace(' ', '', $libelle);
+
+			$sql="SELECT `code_produits`,`image_produit`,`prix`,`nom` FROM produit,categorie WHERE categorie.`libelle` ='$replaced' and produit.code_categorie=categorie.code_categorie" ;
+			$db = config::getConnexion();
+			try{
+				$liste = $db->query($sql);
+				return $liste;
+			}
+			catch (Exception $e){
+				die('Erreur: '.$e->getMessage());
+			}	
+		}
         function afficher_produit_nom(){
 			
 			$sql="SELECT `code_produits`,`image_produit`,`prix`,`nom` from produit order by nom";
+			$db = config::getConnexion();
+			try{
+				$liste = $db->query($sql);
+				return $liste;
+			}
+			catch (Exception $e){
+				die('Erreur: '.$e->getMessage());
+			}	
+		}
+        function afficher_produit_prix_asc(){
+			
+			$sql="SELECT `code_produits`,`image_produit`,`prix`,`nom` from produit order by prix asc";
+			$db = config::getConnexion();
+			try{
+				$liste = $db->query($sql);
+				return $liste;
+			}
+			catch (Exception $e){
+				die('Erreur: '.$e->getMessage());
+			}	
+		}
+        function afficher_produit_prix_desc(){
+			
+			$sql="SELECT `code_produits`,`image_produit`,`prix`,`nom` from produit order by prix desc";
+			$db = config::getConnexion();
+			try{
+				$liste = $db->query($sql);
+				return $liste;
+			}
+			catch (Exception $e){
+				die('Erreur: '.$e->getMessage());
+			}	
+		}
+        function afficher_produit_nom_desc(){
+			
+			$sql="SELECT `code_produits`,`image_produit`,`prix`,`nom` from produit order by nom desc";
 			$db = config::getConnexion();
 			try{
 				$liste = $db->query($sql);
