@@ -5,14 +5,16 @@
         private $prenom;
         private $email;
         private $password;
+        private $adresse;
       
 
-        function __construct($code_client,$nom,$prenom,$email,$password){
+        function __construct($code_client,$nom,$prenom,$email,$password,$adresse){
             $this->code_client = $code_client;
             $this->nom = $nom;
             $this->prenom = $prenom;
             $this->email = $email;
             $this->password = $password;
+            $this->adresse = $adresse;
       
 
         }
@@ -31,6 +33,8 @@
         function get_password(){
             return $this->password;
         }
-
+        function get_adresse(){
+            return $this->adresse;
+        }
     }
 ?>

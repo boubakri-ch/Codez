@@ -4,7 +4,7 @@
    if (isset($_POST['nom']))
     {
     
-    $c=new client (null,$_POST['nom'],$_POST['prenom'],$_POST['email'],$_POST['password']);
+    $c=new client (null,$_POST['nom'],$_POST['prenom'],$_POST['email'],$_POST['password'],$_POST['adresse']);
     
     //var_dump($c);
     $client = new clientOps();
@@ -3851,6 +3851,11 @@ if ($(window).width() < 1200) {
 
 <label for="CreatePassword" class="label--hidden">Password</label>
 <input type="password" name="password" id="CreatePassword" placeholder="Password" >
+</div>
+<div data-errormsg="">
+
+<label for="CreateAdress" class="label--hidden">Adresse</label>
+<input type="adresse" name="adresse" id="CreateAdress" placeholder="adresse" >
 </div>
 
       <p>

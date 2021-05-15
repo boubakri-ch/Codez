@@ -4,7 +4,7 @@
 
     class clientOps{
         function ajouterClient($x){
-            $sql = "INSERT INTO `client` (nom,prenom,email,password_c) VALUES (:nom,:prenom,:email,:password_c)";
+            $sql = "INSERT INTO `client` (nom,prenom,email,password_c,adresse) VALUES (:nom,:prenom,:email,:password_c,:adresse)";
             $db = config::getConnexion();
             try{
                 $req=$db->prepare($sql);
@@ -12,6 +12,7 @@
                 $req->bindValue(':prenom',$x->get_prenom());
                 $req->bindValue(':email',$x->get_email());
                 $req->bindValue(':password_c',$x->get_password());
+                $req->bindValue(':adresse',$x->get_adresse());
            
                 $req->execute();   
             }
@@ -46,7 +47,7 @@ catch(Exception $e){
 }
 function selectclient($id_modif){
     $replaced = str_replace(' ', '', $id_modif);
-    $sql="SELECT `code_client`,`nom`,`prenom`,`email`,`password_c` FROM `client` WHERE code_client=$replaced";
+    $sql="SELECT `code_client`,`nom`,`prenom`,`email`,`password_c`,`adresse` FROM `client` WHERE code_client=$replaced";
     $db = config::getConnexion();
 
     try{
@@ -59,7 +60,7 @@ function selectclient($id_modif){
     }
 }
 function modifier_client($x){
-    $sql = "UPDATE `client` SET `code_client`=:code_client,`nom`=:nom,`prenom`=:prenom,`email`=:email,`password_c`=:password_c WHERE code_client=:code_client";
+    $sql = "UPDATE `client` SET `code_client`=:code_client,`nom`=:nom,`prenom`=:prenom,`email`=:email,`password_c`=:password_c,`adresse`=:adresse WHERE code_client=:code_client";
     $db = config::getConnexion();
     try{
         $req=$db->prepare($sql);
@@ -69,6 +70,7 @@ function modifier_client($x){
         $req->bindValue(':prenom',$x->get_prenom());
         $req->bindValue(':email',$x->get_email());
         $req->bindValue(':password_c',$x->get_password());
+        $req->bindValue(':adresse',$x->get_adresse());
             
             $req->execute();    
     }

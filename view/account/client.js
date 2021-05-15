@@ -53,6 +53,7 @@ const validate = function(ev){
     let prenom = document.getElementById('LastName');
     let mail=document.getElementById('Email');
     let pswd=document.getElementById('CreatePassword');
+    let adress=document.getElementById('CreateAdress');
     //.value, .defaultValue, length of value
     if(nom.value==="")
     {
@@ -76,6 +77,12 @@ const validate = function(ev){
     
     if(pswd.value==="")
     {        failures.push({input:'CreatePassword', msg:'champ requis!'})
+    
+}
+else
+if(adress.value==="")
+{        failures.push({input:'CreateAdress', msg:'champ requis!'})
+
 }
     //return a boolean || an object with details about the failures
     return failures;
