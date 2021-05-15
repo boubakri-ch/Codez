@@ -1,7 +1,7 @@
 
 	<?php
-	 include ("../core/livraisonOps.php");
-	 $sql="SELECT id,id_client,adresse,num_commande,date_l from livraison";
+	 include ("../core/livreurOps.php");
+	 $sql="SELECT code_livreur,nom,prenom,mail,num_tel from livreur";
 	 $db = config::getConnexion();
 	 $liste=$db->query($sql );
  	
@@ -11,11 +11,11 @@
 						$tab.='
 						<table class="table-affichage ">
 						<tr>
-							<th>ID</th>
-							<th>ID Client</th>
-							<th>Adresse</th>
-							<th>Numero commande</th>
-							<th>Date</th>
+							<th>Code livreur</th>
+							<th>Nom livreur</th>
+							<th>Prenom livreur</th>
+							<th>Email du livreur</th>
+							<th>Numéro de téléphone </th>
 							
 
 						</tr> ';
@@ -23,11 +23,11 @@
 						foreach($liste as $livreur)
 						{
 							$tab.='<tr>
-								<td>'.$livreur["id"].'</td>
-								<td>'.$livreur["id_client"].'</td>
-								<td>'.$livreur["adresse"].'</td>
-								<td>'.$livreur["num_commande"].'</td>
-								<td>'.$livreur["date_l"].'</td>
+								<td>'.$livreur["code_livreur"].'</td>
+								<td>'.$livreur["nom"].'</td>
+								<td>'.$livreur["prenom"].'</td>
+								<td>'.$livreur["mail"].'</td>
+								<td>'.$livreur["num_tel"].'</td>
 								
 							</tr>';
 							
@@ -44,6 +44,6 @@
 
 
 						header('Content-Type: text/xls;');
-						header('Content-Disposition: attachment; filename="livraison.xls"');
+						header('Content-Disposition: attachment; filename="livreur.xls"');
 						echo $tab;
 					?>
