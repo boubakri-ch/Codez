@@ -48,27 +48,14 @@ const validate = function(ev){
     
 
     //inputs for text, email, tel, color, number...
-    let id_client = document.getElementById('input-id');
-    let adresse=document.getElementById('input-adresse');
-    let num_c=document.getElementById('input-num_c');
+     let num_c=document.getElementById('input-commande');
    
     //.value, .defaultValue, length of value
-    if( id_client.value==="")
+   
+    if(num_c.value==="Choisissez une commande pour livrer")
     {
-        failures.push({input:'input-id', msg:'remplissez le type!'})
-            
-    } 
-    else
-    if(adresse.value==="")
-    {
-        failures.push({input:'input-adresse', msg:'Champs requis!'})
-  
-    }
-    else
-    if(num_c.value==="")
-    {
-        failures.push({input:'input-num_c', msg:'Champs requis!'})
-
+        failures.push({input:'input-commande', msg:'Champs requis!'})
+alert("");
     }
  
     //return a boolean || an object with details about the failures

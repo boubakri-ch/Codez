@@ -72,7 +72,8 @@
            
     }
     function supprimer_reservation($id){
-        $sql="DELETE FROM reservation where code_reservation=:id";
+
+$sql="DELETE FROM reservation where code_reservation=:id";
 $db=config::getConnexion();
 try{
 $req=$db->prepare($sql);
@@ -80,7 +81,7 @@ $req->bindValue(':id',$id);
 $req->execute();
 }
 catch(Exception $e){
-    die('Erreur:' .$e->getMessage());
+die('Erreur:' .$e->getMessage());
 }
        
 }

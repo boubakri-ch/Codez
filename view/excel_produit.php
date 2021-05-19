@@ -1,6 +1,6 @@
 
 	<?php
-	 include ("../core/reservationOps.php");
+	 include ("../core/produitOps.php");
 	 $sql="SELECT `code_produits`,`description`,`image_produit`,`prix`,`nom`,`categorie`.`libelle`  FROM produit,categorie WHERE produit.code_categorie=categorie.code_categorie";
 	 $db = config::getConnexion();
 	 $liste=$db->query($sql );

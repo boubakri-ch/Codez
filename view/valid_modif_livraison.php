@@ -4,7 +4,7 @@
  
         
 
-    $l=new livraison ($_POST['id_client'],$_POST['adresse'],$_POST['num_c'],$_POST['date'],null,$_POST['id']);
+    $l=new livraison ($_POST['id_client'],$_POST['adresse'],$_POST['num_c'],$_POST['date'],$_POST['id'],null);
 
 
     $livraison = new livraisonOps();

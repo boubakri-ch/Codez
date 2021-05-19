@@ -1,16 +1,6 @@
 <?php 
   include "C:/wamp64/www/web/core/loginOps.php";
-
-  session_start();
  
-  if(!isset($_SESSION['unique_id'])){
-      
-          
-
-    header("location:account/page_login.php");
-   
-   
-}
 
 
 
@@ -20,6 +10,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
 </head>
 <body>
+  <?php   include_once "header.php";  ?>
   <div class="wrapper">
     <section class="chat-area">
       <header>

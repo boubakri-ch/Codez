@@ -5,11 +5,17 @@
     {
       $ran_id = rand(time(),100000000);
       $mot_de_passe=md5($_POST['password']);
-    $c=new client (null,$ran_id,$_POST['nom'],$_POST['prenom'],$_POST['email'],$mot_de_passe);
-    
+    $c=new client (null,$ran_id,$_POST['nom'],$_POST['prenom'],$_POST['email'],$mot_de_passe,null);
     //var_dump($c);
     $client = new clientOps();
-    $client->ajouterClient($c);    
+    $client->ajouterClient($c);
+    $liste_code=$client->select_randid($_POST['email']);
+    $row2 = $liste_code->fetch(PDO::FETCH_ASSOC);
+    $id_client=$row2['unique_id'];
+
+    $c1=new client1(null,$id_client,$_POST['nom'],$_POST['prenom'],$_POST['email'],$mot_de_passe,null,$_POST['adresse']);
+
+    $client->ajouter_client($c1);  
     }
 ?>
 
@@ -41,7 +47,7 @@
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="Create Account">
-  <meta property="og:url" content="register.html">
+  <meta property="og:url" content="register.php">
   
   <meta property="og:image" content="../../cdn.shopify.com/s/files/1/0267/5979/0615/t/3/assets/logo6378.png?v=16169813535851071673">
   <meta property="og:image:secure_url" content="../../cdn.shopify.com/s/files/1/0267/5979/0615/t/3/assets/logo6378.png?v=16169813535851071673">
@@ -1235,7 +1241,7 @@ Les Restaurants
                 <ul> 
                   
                   <li>
-                    <a href="login.html" title="Log in" data-value="value 1"><i class="fa fa-user post-large--hide large--hide medium-down--hide"></i><span class="wide--hide">Log in</span></a>
+                    <a href="page_login.php" title="Log in" data-value="value 1"><i class="fa fa-user post-large--hide large--hide medium-down--hide"></i><span class="wide--hide">Log in</span></a>
                   </li>
 
                     
@@ -1635,10 +1641,10 @@ Les Restaurants
                     
                     
                     <li>
-                      <a href="login.html" title="Log in"> <i class="fa fa-sign-in-alt icons" aria-hidden="true"></i> Log in</a>
+                      <a href="page_login.php" title="Log in"> <i class="fa fa-sign-in-alt icons" aria-hidden="true"></i> Log in</a>
                     </li>
                     <li>
-                      <a href="register.html" title="Create account">  <i class="fas fa-user" aria-hidden="true"></i> Create account</a>
+                      <a href="register.php" title="Create account">  <i class="fas fa-user" aria-hidden="true"></i> Create account</a>
                     </li>          
                       
                      
@@ -1836,6 +1842,11 @@ Les Restaurants
 
 <label for="CreatePassword" class="label--hidden">Password</label>
 <input type="password" name="password" id="CreatePassword" placeholder="Password" >
+</div>
+<div data-errormsg="">
+
+<label for="adresse" class="label--hidden">Adresse</label>
+<input type="text" name="adresse" id="adresse" placeholder="Adresse" >
 </div>
 
       <p>

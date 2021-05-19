@@ -10,8 +10,8 @@
 	 $db = config::getConnexion();
 	 $sql="SELECT code_livreur,nom,prenom,mail,num_tel from livreur";
 	 $liste=$db->query($sql );
- 
-	 $pdf->image("C:/wamp64/www/projet/view/assets/tuni.png",25,25,25,13,'PNG');
+	 $pdf->image("C:/wamp64/www/web/view/assets/tuni.png",25,25,25,13,'PNG');
+
 	$pdf->SetFont("Arial","B","24");
 
 	$pdf->Cell(0,10,"BINVENNUE",0,1,"C");

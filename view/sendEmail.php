@@ -6,7 +6,6 @@
         $email = $_GET['email'];
         $subject = "Confirmation de réservation";
         $body = "Votre réservation à été confirmer";
-
         require_once "PHPMailer/PHPMailer.php";
         require_once "PHPMailer/SMTP.php";
         require_once "PHPMailer/Exception.php";

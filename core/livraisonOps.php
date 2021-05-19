@@ -79,9 +79,9 @@ catch(Exception $e){
 }
        
 }
-function AfficherTri(){
+function AfficherTri($start,$perpage){
 
-    $sql="SELECT * FROM livraison order by num_commande";
+    $sql="SElECT `id`,`id_client`,`adresse`,`num_commande`,`date_l`,`livreur`.`prenom` From livraison,livreur where livreur.code_livreur = livraison.code_livreur ORDER BY date_l    limit $start,$perpage ";
     $db=config::getConnexion();
     try{
         $liste=$db->query($sql);
@@ -94,6 +94,17 @@ function AfficherTri(){
 }
 function afficher_livraison_livreur($id,$start,$perpage){
     $sql="SElECT DISTINCT `id`,`id_client`,`adresse`,`num_commande`,`date_l` From livraison,livreur where livraison.code_livreur=$id ";
+    $db = config::getConnexion();
+    try{
+    $liste=$db->query($sql);
+    return $liste;
+    }
+    catch (Exception $e){
+        die('Erreur: '.$e->getMessage());
+    }
+}
+function selectcode_client($id){
+$sql="select id_client,adresse from entete_commande where code_commande=$id";
     $db = config::getConnexion();
     try{
     $liste=$db->query($sql);

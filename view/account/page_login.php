@@ -10,40 +10,40 @@
   $login=new loginOps();
 	$liste=$login->selectcompte($_POST['email']);
     foreach($liste  as $c) {
-              
+      if($c['etat']=="bloquer")
+      {
+              echo"Tu es bloqué par un admin";
+      }
+      else
+      {
     if(md5($_POST['password'])===$c['password_c'] && $c['type_c']==="admin")
     {
 
-      $_SESSION['unique_id']=$c['unique_id'];  
+    $_SESSION['unique_id']=$c['unique_id'];  
     $_SESSION['email']=$c['email'];
-    $_SESSION['fname']=$c['fname'];
-    $_SESSION['lname']=$c['lname'];
+    $_SESSION['fname']=$c['lname'];
+    $_SESSION['lname']=$c['fname'];
     $_SESSION['type_c']=$c['type_c'];
     $_SESSION['unique_id']=$c['unique_id'];
     $liste=$login->online($c['unique_id']);
 
-    header("location:../liste_articles.php");
+    header("location:../stat.php");
     }
     else
     if(md5($_POST['password'])===$c['password_c'] && $c['type_c']==="client")
    {
-    $_SESSION['unique_id']=$c['unique_id'];  
-
+    $_SESSION['unique_id']=$c['unique_id'];
     $_SESSION['email']=$c['email'];
-    $_SESSION['fname']=$c['fname'];
-    $_SESSION['lname']=$c['lname'];
+    $_SESSION['fname']=$c['lname'];
+    $_SESSION['lname']=$c['fname'];
     $_SESSION['type_c']=$c['type_c'];
-
     $_SESSION['unique_id']=$c['unique_id'];
     $liste=$login->online($c['unique_id']);
-
     header("location:../collections/all.php");
-    
    }
-       
-        }  
-        
-    }
+   }  
+   }
+   }
 
 
 
@@ -1738,10 +1738,10 @@ Les Restaurants
                     
                     
                     <li>
-                      <a href="login.html" title="Log in"> <i class="fa fa-sign-in-alt icons" aria-hidden="true"></i> Log in</a>
+                      <a href="page_login.php" title="Log in"> <i class="fa fa-sign-in-alt icons" aria-hidden="true"></i> Log in</a>
                     </li>
                     <li>
-                      <a href="register.html" title="Create account">  <i class="fas fa-user" aria-hidden="true"></i> Create account</a>
+                      <a href="register.php" title="Create account">  <i class="fas fa-user" aria-hidden="true"></i> Create account</a>
                     </li>          
                       
                      
@@ -1944,7 +1944,7 @@ Les Restaurants
         <input type="submit" class="btn" value="Sign In">
       </p>
       <p>
-        <a href="register.html" id="customer_register_link">Create account</a>
+        <a href="register.php" id="customer_register_link">Create account</a>
       </p>
       <a href="../index.php">Return to Store</a>
 

@@ -49,9 +49,8 @@ const validate = function(ev){
    
 
     //inputs for text, email, tel, color, number...
-    let nom = document.getElementById('input-nom');
-
-    let adresse = document.getElementById('input-adresse');
+    let nom =document.getElementById('input-nom');
+    let adresse=document.getElementById('input-adresse');
     let numero=document.getElementById('input-numero');
    
     //.value, .defaultValue, length of value
